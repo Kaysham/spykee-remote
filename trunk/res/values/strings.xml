@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2011 Jack Veenstra
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Spykee Remote</string>
+    <string name="connect">Connect</string>
+    <string name="dock">Dock</string>
+    <string name="undock">Undock</string>
+    <string name="cancel_dock">Cancel dock</string>
+    <string name="soundfx">Sound effects</string>
+    <string name="host_label">Host</string>
+    <string name="port_label">Port</string>
+    <string name="login_label">Login</string>
+    <string name="password_label">Password</string>
+    <string name="alarm">Alarm</string>
+    <string name="bomb">Bomb</string>
+    <string name="lazer">Lazer</string>
+    <string name="ahahah">Ah ah ah</string>
+    <string name="engine">Engine</string>
+    <string name="robot">Robot</string>
+    <string name="custom1">Custom 1</string>
+    <string name="custom2">Custom 2</string>
+    <string name="close">Close</string>
+    <string name="connecting">Connecting to %s \u2026</string>
+    <string name="connected">Connected to %s</string>
+    <string name="battery_level">Battery level: %d</string>
+    <string name="unknown_host">Unknown host: %s</string>
+    <string name="io_exception" formatted="false">%s:%s: %s</string>
+</resources>
