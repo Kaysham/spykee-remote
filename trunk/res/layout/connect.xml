@@ -31,7 +31,7 @@ limitations under the License.
                 android:paddingRight="6dip" />
             <EditText
                 android:id="@+id/host"
-                android:maxLines="1"
+                android:singleLine="true"
                 android:layout_marginRight="6dip" />
         </TableRow>
         <TableRow>
@@ -42,7 +42,7 @@ limitations under the License.
                 android:paddingRight="6dip" />
             <EditText
                 android:id="@+id/port"
-                android:maxLines="1"
+                android:singleLine="true"
                 android:layout_marginRight="6dip" />
         </TableRow>
         <TableRow>
@@ -53,7 +53,7 @@ limitations under the License.
                 android:paddingRight="6dip" />
             <EditText
                 android:id="@+id/login"
-                android:maxLines="1"
+                android:singleLine="true"
                 android:layout_marginRight="6dip" />
         </TableRow>
         <TableRow>
@@ -64,7 +64,7 @@ limitations under the License.
                 android:paddingRight="6dip" />
             <EditText
                 android:id="@+id/password"
-                android:maxLines="1"
+                android:singleLine="true"
                 android:password="true"
                 android:layout_marginRight="6dip" />
         </TableRow>
