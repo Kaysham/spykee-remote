@@ -63,7 +63,7 @@ public class Spykee {
 	
 	private int mForwardSpeed = 100;
 	private int mBackwardSpeed = 50;
-	private int mTurningSpeed = 15;
+	private int mTurningSpeed = 50;
 	
 	// The number of characters decoded per line in the hex dump
 	private static final int CHARS_PER_LINE = 32;
